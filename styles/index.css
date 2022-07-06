@@ -81,6 +81,11 @@ body{
 
 .first-single-card p{
     margin-bottom: 50px;
+    color: #8a8d8a;
+    
+    
+    
+    
 }
 
 @media screen and (min-width: 650px){
@@ -95,7 +100,8 @@ body{
 
     .first-single-card p{
         margin-bottom: 70px;
-        color: #8a8d8a;
+        
+       
        
     }
 
@@ -119,6 +125,7 @@ body{
 
     .first-single-card p{
        font-size: 16px;
+        
        
     }
 
